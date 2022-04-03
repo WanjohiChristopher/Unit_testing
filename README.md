@@ -23,3 +23,8 @@ pytest -x
 ```
 !pytest -rx
 ```
+### Command that would only show the reason for skipped tests in the test result report?
+
+```
+!pytest -rs
+```
