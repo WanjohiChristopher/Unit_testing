@@ -10,3 +10,4 @@ scripts:
  
  after_success:
   - codecov
+
