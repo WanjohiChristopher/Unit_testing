@@ -28,3 +28,8 @@ pytest -x
 ```
 !pytest -rs
 ```
+#### Command that would show the reason for both skipped tests and tests that are expected to fail in the test result report?
+
+```
+!pytest -rsx
+```
