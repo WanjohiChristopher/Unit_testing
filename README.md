@@ -18,3 +18,8 @@ To stop the test after first failure write
 
 pytest -x
 ```
+### Command that would only show the reason for expected failures in the test result report?
+
+```
+!pytest -rx
+```
