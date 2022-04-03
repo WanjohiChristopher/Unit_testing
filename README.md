@@ -13,4 +13,8 @@ Function names -test_ (unit test)
 cd directory
 
 run pytest
+
+To stop the test after first failure write
+
+pytest -x
 ```
