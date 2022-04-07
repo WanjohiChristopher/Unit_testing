@@ -3,11 +3,11 @@
 
 
 
-Filenames/modules written as - test_
+Filenames/modules written as : - test_
 
-Classnames written as - Test which is the starting point
+Classnames written as : - Test which is the starting point
 
-Function names -test_ (unit test)
+Function names: -test_ (unit test)
 
 
 ### Running all tests
