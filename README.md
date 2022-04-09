@@ -21,17 +21,17 @@ To stop the test after first failure write
 
 pytest -x
 ```
-### Command that would only show the reason for expected failures in the test result report?
+### Command that would only show the reason for expected failures in the test result report
 
 ```
 !pytest -rx
 ```
-### Command that would only show the reason for skipped tests in the test result report?
+### Command that would only show the reason for skipped tests in the test result report
 
 ```
 !pytest -rs
 ```
-#### Command that would show the reason for both skipped tests and tests that are expected to fail in the test result report?
+#### Command that would show the reason for both skipped tests and tests that are expected to fail in the test result report
 
 ```
 !pytest -rsx
