@@ -1,5 +1,4 @@
 # Unit_testing
-[![Build Status](https://app.travis-ci.com/WanjohiChristopher/Unit_testing.svg?branch=master)](https://app.travis-ci.com/WanjohiChristopher/Unit_testing)
 
 
 
